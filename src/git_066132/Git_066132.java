@@ -15,11 +15,21 @@ public class Git_066132 {
     System.out.println("Soy = " + nombre + "Y mi matricula es " + matricula);
     
       int edad =0;
+        System.out.println("Edad es:"+edad);
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     }
-    
-    
-    
-    
+     
    }
